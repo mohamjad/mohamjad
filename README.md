@@ -1,16 +1,20 @@
-## Hi there 👋
+hi, i'm mohammed.
 
-<!--
-**mohamjad/mohamjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dropped out at 19. here's what i'm doing.
 
-Here are some ideas to get you started:
+solo alpinism — eiger north face, mount logan, mount alberta. 
+training for alpamayo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+running world1, a pre-seed accelerator for founders who don't 
+need a reason to keep going. toronto.
+
+figuring out the measurement infrastructure for ground truth that never 
+stops moving plasticity-driven covariate shift, weak intent 
+supervision, eval frameworks for non-verifiable data.
+
+---
+
+world1.dev  
+linkedin: linkedin.com/in/mohamjad
+email mohammed@world1.dev
+
