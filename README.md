@@ -14,4 +14,4 @@ need a reason to keep going. toronto.
 
 building measurement infrastructure for ground truth that never
 stops moving. plasticity-driven covariate shift, weak intent
-supervision, eval frameworks for non-verifiable data.
+supervision, eval frameworks for non-verifiable data. (see neurodrift-lab repo)
