@@ -1,22 +1,26 @@
-hi, i'm mohammed.
+<p align="center">
+  <img src="./assets/banner.svg" alt="mohamjad banner" />
+</p>
 
-i dropped out at 19. here's what i'm doing.
+# mohamjad
 
-solo alpinism (eiger, mt alberta, logan, rainer)
-training for alpamayo.
+I build evaluation systems, agent tooling, and applied AI infrastructure.
 
-running world1, a pre-seed accelerator for founders who don't 
-need a reason to keep going. toronto. (im also an angel investor! pitch me technically interesting startup!)
+Current focus:
 
-figuring out the measurement infrastructure for ground truth that never 
-stops moving plasticity-driven covariate shift, weak intent 
-supervision, eval frameworks for non-verifiable data.
+- frontier-model evaluation environments
+- non-verifiable work evals
+- intent drift across sessions
+- BCI / neural drift measurement
+- small code, hard problems
 
----
+Selected work:
 
-world1.dev  
+- [`neurodrift-lab`](https://github.com/mohamjad/neurodrift-lab)  
+  BCI intent drift, Riemannian metrics, neural session drift, real-data fixtures.
 
-linkedin: linkedin.com/in/mohamjad
+- [`evalsyste-framework`](https://github.com/mohamjad/evalsyste-framework)  
+  Non-verifiable evals, evidence scoring, intent drift, context stability.
 
-email mohammed@world1.dev
-
+- [`eval-stuff`](https://github.com/mohamjad/eval-stuff)  
+  Agent evals for evidence laundering, trace collapse, tool thrash, intent drift.
