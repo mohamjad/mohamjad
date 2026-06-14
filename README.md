@@ -9,6 +9,6 @@ hi, i'm mohammed.
 solo alpinism - (eiger, mt alberta, logan, rainer)
 training for alpamayo.
 
-running world1, an institution for founders focusing on the concept of substance. toronto.
+running world1, an institution for founders constantly in motion. real experiences worth sharing. sf & toronto
 
 im also building evaluation environments for long-horizon rl evaluation, as well as neural-interface sessions that make intent measurable under changing neural, cognitive, and contextual state.
