@@ -4,7 +4,7 @@
 
 hi, i'm mohammed.
 
-  dropped out at 19. here's what i'm doing.
+  dropped out from canada's #1 business school at 19. here's what i'm doing.
 
 solo alpinism - (eiger, mt alberta, logan, rainer)
 training for alpamayo.
