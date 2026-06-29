@@ -11,4 +11,6 @@ training for alpamayo.
 
 running world1, an institution for founders constantly in motion. real experiences worth sharing. sf & toronto
 
+gtm @ forum ventures
+
 im also building evaluation environments for long-horizon rl evaluation, as well as neural-interface sessions that make intent measurable under changing neural, cognitive, and contextual state. see aporia, anemoia01 
