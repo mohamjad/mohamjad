@@ -2,9 +2,9 @@
   <img src="./assets/banner.svg" alt="mohammed founder @ anemonia, world1" />
 </p>
 
-hi, i'm mohammed.
+hi, i'm mohammed. currently:
 
-Engineering @ UWO, HBA @ Ivey Business School
+engineering @ UWO, HBA @ Ivey Business School
 
 solo alpinism - (eiger, mt alberta, logan, rainer)
 training for alpamayo.
