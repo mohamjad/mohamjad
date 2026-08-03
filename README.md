@@ -6,9 +6,10 @@ hi, i'm mohammed. currently:
 
 engineering @ UWO, HBA @ Ivey Business School - dropped out as of 2026/08/02
 
-alpinism - (eiger, mt alberta, logan, rainer)
+alpine guide - (eiger, mt alberta, logan, rainer)
 training for alpamayo.
 
-building world1 as an emerging fund, we're taking investors and founders on alpine and scuba tours
+founder of world1 
+world1 bets on early-stage founders in hard technical sectors and gets them to revenue
 
 im also building evaluation environments for long-horizon rl evaluation, as well as neural-interface sessions that make intent measurable under changing neural, cognitive, and contextual state. see aporia, anemoia01 
